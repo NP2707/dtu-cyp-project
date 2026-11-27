@@ -1,0 +1,4 @@
+type: per_target
+hidden_dim: 512
+trunk_layers: 2
+dropout: 0.1

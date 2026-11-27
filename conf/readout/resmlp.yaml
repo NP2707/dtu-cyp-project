@@ -1,0 +1,4 @@
+type: resmlp
+hidden_dim: 512
+num_blocks: 2
+dropout: 0.1
